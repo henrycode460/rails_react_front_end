@@ -40,6 +40,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [Back-end Repository](#back-end-repository)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -101,6 +102,13 @@ After you're finished please remove all the comments and instructions!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Back-end Repository
+| Repository | Pull request |
+|------------|------------|
+|[Repo link >>](https://https://github.com/henrycode460/rails_react_back_end)|[Pull request Here >>](https://github.com/henrycode460/rails_react_back_end/pulls)|
+
 
 <!-- LIVE DEMO -->
 
